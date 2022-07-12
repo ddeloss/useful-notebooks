@@ -50,6 +50,17 @@ Implementations of the assignments from Google's Udacity course on deep learning
 <a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/tensorflow/Tensorflow-5-Word2Vec.ipynb">Assignment 5 - Word Embeddings</a><br/>
 <a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/tensorflow/Tensorflow-6-LSTM.ipynb">Assignment 6 - Recurrent Nets</a>
 
+#### Dask Tutorial by Dask from SciPy 2020
+
+The Dask tutorial given at Scipy 2020
+
+<a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/dask/00_overview.ipynb">Overview of the tutorial</a><br/>
+<a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/dask/01_dataframe.ipynb">Dask Dataframes</a><br/>
+<a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/dask/02_array.ipynb">Dask Arrays</a><br/>
+<a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/dask/03_dask.delayed.ipynb">Dask Delayed</a><br/>
+<a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/dask/04_distributed.ipynb">Dask Distributed</a><br/>
+<a href="http://nbviewer.ipython.org/github/ddeloss/useful-notebooks/blob/master/notebooks/dask/05_futures.ipynb">Dask Futures</a>
+
 #### Spark Big Data Labs
 
 Lab exercises for the original Spark classes on edX.
