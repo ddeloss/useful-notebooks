@@ -1,4 +1,4 @@
-ipython-notebooks
+useful-notebooks
 ========================
 
 This repo contains various IPython notebooks I've collected (initially cloned from https://github.com/jdwittenauer/ipython-notebooks) to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
